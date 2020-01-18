@@ -1,6 +1,5 @@
 # flutter_clock
 My first attempt 
-Basic flutter practice
 
 This is a flutter clock challenge I make a really easy version.
 
